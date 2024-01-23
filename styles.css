@@ -112,6 +112,7 @@ body {
 .section-playlist__content .text {
     padding-bottom: 14px;
     color: #fff;
+    font-family: "DM Sans", sans-serif;
 }
 
 .section-playlist__content .title {
