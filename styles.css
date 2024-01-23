@@ -79,3 +79,13 @@ body {
     padding: 20px 10px;
 }
 
+.library .library__button .fa {
+    font-size: 20px;
+    margin-right: 10px;
+    font-weight:  300;
+    padding-right: 8px;
+}
+
+.library .library__contents .fa-plus {
+    margin: 24px 10px;
+}
