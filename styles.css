@@ -1,7 +1,16 @@
 body {
-    background-color: #000;
+    background-color: hsl(0, 0%, 0%);
+}
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    
 }
 
-h1 {
-    color: #fff;
+.sidebar_navegation {
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 16px 0 0 16px;
+    
 }
