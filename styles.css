@@ -59,12 +59,13 @@ body {
     margin-top: 10px;
 }
 
-.libery .library__content {
+.library .library__content {
     display: flex;
     justify-content: space-between;
 }
 
-.libery .library__button {
+.library .library__button {
+    display: flex;
     margin-right: 10px;
     color: #b3b3b3;
     background-color: transparent;
@@ -76,5 +77,5 @@ body {
     text-decoration: none;
     text-transform: none;
     padding: 20px 10px;
-    display: flex;
 }
+
