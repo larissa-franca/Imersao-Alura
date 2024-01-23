@@ -17,13 +17,13 @@ body {
     
 }
 
-.logo {
+.sidebar_navegation .logo {
     background-color: #121212;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px
 }
 
-.logo img {
+.sidebar_navegation .logo img {
     width: 80px;
 }
